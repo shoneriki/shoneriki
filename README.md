@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Redux, MongoDB
 - 🧑‍💻  All of my projects are available here at [https://shoneriki.netlify.app](https://shoneriki.netlify.app)
-- 📫 You can reach me here at [ikirenohs@gmail.com](ikirenohs@gmail.com)
+- 📫 You can reach me here at [ikirenohs@gmail.com](mailto:ikirenohs@gmail.com)
 
 ## Connect with me:
 <a href="https://twitter.com/shoneriki"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
