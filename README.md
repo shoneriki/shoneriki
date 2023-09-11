@@ -2,7 +2,7 @@
 
 <h2 align="center"><b>Passionate Full Stack Developer</b><h2>
 
-- 🌱 I’m currently learning Redux, MongoDB
+- 🌱 I’m currently learning C#,Redux, MongoDB,
 - 🧑‍💻  All of my projects are available here at [https://shoneriki.netlify.app](https://shoneriki.netlify.app)
 - 📫 You can reach me here at [ikirenohs@gmail.com](mailto:ikirenohs@gmail.com)
 
